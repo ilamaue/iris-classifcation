@@ -14,6 +14,9 @@ This project aims to classify iris flowers into three species: Setosa, Versicolo
 
 
 -streamlit
+
 -numpy
+
 -pickle-mixin
+
 -scikit-learn

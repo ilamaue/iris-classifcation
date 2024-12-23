@@ -1,25 +1,19 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (yhis is a an iris classfication project )
+⬆️ iris classfication project 
 ```
 
-Description of the app ...
+This project aims to classify iris flowers into three species: Setosa, Versicolor, and Virginica based on the physical measurements of the flowers. The classification is done using machine learning techniques, and the dataset used is the famous Iris Dataset, which includes features such as the length and width of sepals and petals.
 
 ## Demo App
 
 [[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)](https://iris-classifcation-zyuafpp4qtqixkssveaqsq.streamlit.app/)
 
-## GitHub Codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+## Requirements
 
-## Section Heading
 
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+-streamlit
+-numpy
+-pickle-mixin
+-scikit-learn
